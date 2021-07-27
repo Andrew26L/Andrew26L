@@ -4,7 +4,7 @@ I'm a creative fullstack software engineer specializing in web development. I st
 
 💡 JavaScript | Node.js | React | Express | GraphQL | PostgreSQL | MongoDB 
 
-- 🔭  I’m currently working on Chack, Language Leaf, and Solefactor
+- 🔭  I’m currently working on Chack, Chack Server, Language Leaf, and Solefactor
 - 🌱  I’m currently learning DRY coding
 - 💬  Ask me about my development approach and potential optimizations
 - 📫  How to reach me: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-larsen-coding/)
