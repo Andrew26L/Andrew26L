@@ -9,6 +9,6 @@ I'm a creative fullstack software engineer specializing in web development. I st
 - 💬 Ask me about my development approach and potential optimizations
 - 📫 How to reach me: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-larsen-coding/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an amateur artist
+- ⚡ Fun facts: I'm an amateur artist | My first programming language was C
 
 Check out my projects below! I'm always open to feedback
