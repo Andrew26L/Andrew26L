@@ -4,11 +4,11 @@ I'm a creative fullstack software engineer specializing in web development. I st
 
 💡 JavaScript | Node.js | React | Express | GraphQL | PostgreSQL | MongoDB 
 
-- 🔭 I’m currently working on Chack, Language Leaf, and Solefactor
-- 🌱 I’m currently learning DRY coding
-- 💬 Ask me about my development approach and potential optimizations
-- 📫 How to reach me: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-larsen-coding/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: I'm an amateur artist | My first programming language was C
+- 🔭  I’m currently working on Chack, Language Leaf, and Solefactor
+- 🌱  I’m currently learning DRY coding
+- 💬  Ask me about my development approach and potential optimizations
+- 📫  How to reach me: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-larsen-coding/)
+- 😄  Pronouns: He/Him
+- ⚡  Fun facts: I'm an amateur artist | My first programming language was C
 
 Check out my projects below! I'm always open to feedback
