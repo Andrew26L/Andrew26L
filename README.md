@@ -1,4 +1,4 @@
-### 👋 Andrew Larsen's Software Portfolio
+### Andrew Larsen's Software Portfolio
 
 I'm a creative fullstack software engineer specializing in web development. I strive to combine my strong engineering background with my artistic interests as a developer and constantly seek to learn new technologies and best practices.
 
