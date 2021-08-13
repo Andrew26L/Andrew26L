@@ -1,11 +1,9 @@
 ### Andrew Larsen's Software Portfolio
 
-I'm a creative software engineer specializing in web development. I strive to combine my strong engineering background with my artistic interests as a developer and constantly seek to learn new technologies and best practices.
+I'm a creative software engineer specializing in web development. 
 
 💡 JavaScript | Node.js | React | Express | GraphQL | PostgreSQL | MongoDB 
 
-- 🔭  I’m currently working on Chack, Chack Server, Language Leaf, and Solefactor
-- 🌱  I’m currently learning DRY coding
 - 💬  Ask me about my development approach and potential optimizations
 - 📫  How to reach me: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-larsen-coding/)
 - 😄  Pronouns: He/Him
