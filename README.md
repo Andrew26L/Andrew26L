@@ -2,7 +2,7 @@
 
 I'm a creative software engineer specializing in web development. 
 
-💡 JavaScript | Node.js | React | Express | GraphQL | PostgreSQL | MongoDB 
+💡 JavaScript | Node.js | React | Express | PostgreSQL | MongoDB | SQL | GraphQL
 
 - 💬  Ask me about my development approach and potential optimizations
 - 📫  How to reach me: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-larsen-coding/)
